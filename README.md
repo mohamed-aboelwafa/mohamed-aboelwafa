@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/xUPGcyi3xQet5jVxFA/giphy.gif" alt="Terminal Coding" width="60%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to: </summary> </strong></p>
