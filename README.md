@@ -3,6 +3,10 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
 
+<h1> Mohamed Aboelwafa </h1>
+
+<h3> MIS Graduate | Backend Developer (Node.js) | C++ | JavaScript | Problem Solving | Open to Internship / Junior Role </h3>
+
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
