@@ -2,12 +2,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
 
-<details>
-<p><strong> <summary> Busy coding & Vibing to: </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamed-elbradei&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohamed-elbradei&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://github.com/mohamed-elbradei)
