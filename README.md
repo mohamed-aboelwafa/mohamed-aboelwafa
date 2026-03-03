@@ -32,7 +32,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Information
 - 📧 mohameddotmail1630@gmail.com  
 - 💼 LinkedIn: [Mohamed Aboelwafa](https://www.linkedin.com/in/mohamed-abouelwafa-3358a4393/)  
 - 💻 GitHub: [mohamed-aboelwafa](https://github.com/mohamed-aboelwafa)
