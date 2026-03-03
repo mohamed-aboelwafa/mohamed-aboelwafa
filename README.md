@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="60%"/>
-
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="60%"/>
 <details>
 <p><strong> <summary> Busy coding & Vibing to: </summary> </strong></p>
 
