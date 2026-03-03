@@ -11,7 +11,7 @@
 
 <h1> Mohamed Aboelwafa </h1>
 
-<h3> MIS Graduate | Backend Developer (Node.js) | C++ | JavaScript | Problem Solving | Open to Internship / Junior Role </h3>
+<h3> MIS Graduate | Backend Developer (Node.js) | C++ | JavaScript | Problem Solving | Open to Internship </h3>
 
 <hr></hr>
 
