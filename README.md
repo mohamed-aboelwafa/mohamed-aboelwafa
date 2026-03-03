@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Elbradei
 
-<!--
-**mohamed-aboelwafa/mohamed-aboelwafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MIS Graduate | 💻 Backend Node.js Learner | C++ | Open to Work
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Currently learning **Backend Development using Node.js**
+- Strong foundation in **C++**, HTML, CSS, and JavaScript basics
+- Building practical projects to gain real-world experience
+- Seeking a software internship or junior backend role
+
+---
+
+## 🛠 Skills
+- **Programming Languages:** C++, JavaScript  
+- **Web Development:** HTML, CSS  
+- **Backend:** Node.js  
+- **Tools & OS:** Linux, Git, VS Code  
+
+---
+
+## 📂 Featured Projects
+- **Graduation Project Website** – Built with HTML & CSS  
+- **C++ Problem Solving** – Collection of solved programming problems  
+
+---
+
+## 📫 Contact Me
+- 📧 mohameddotmail1630@gmail.com  
+- 💼 LinkedIn: Coming Soon  
+- 💻 GitHub: [mohamed-elbradei](https://github.com/mohamed-elbradei)  
+
+---
+
+## ⚡ Fun Fact
+I believe consistency beats motivation. Every small step counts 🚀
