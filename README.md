@@ -34,10 +34,7 @@
 
 ## 📫 Contact Me
 - 📧 mohameddotmail1630@gmail.com  
-- 💼 LinkedIn: [Mohamed Elbradei](https://www.linkedin.com/in/mohamed-abouelwafa-3358a4393/)  
-- 💻 GitHub: [mohamed-elbradei](https://github.com/mohamed-aboelwafa)
+- 💼 LinkedIn: [Mohamed Aboelwafa](https://www.linkedin.com/in/mohamed-abouelwafa-3358a4393/)  
+- 💻 GitHub: [mohamed-aboelwafa](https://github.com/mohamed-aboelwafa)
 
 ---
-
-## ⚡ Fun Fact
-Learning consistently beats motivation 💪 Every small step counts.
