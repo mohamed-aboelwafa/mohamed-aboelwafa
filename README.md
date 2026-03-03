@@ -1,6 +1,12 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br> 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/><br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamed-elbradei&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
 
 
 <h1> Mohamed Aboelwafa </h1>
