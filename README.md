@@ -44,7 +44,7 @@
 
 ## 📫 Contact Information
 - 📧 mohameddotmail1630@gmail.com  
-- 💼 LinkedIn: [Mohamed Aboelwafa]([https://www.linkedin.com/in/mohamed-abouelwafa-3358a4393/](https://www.linkedin.com/in/mohamed-aboelwafa-3358a4393/))  
+- 💼 LinkedIn: [Mohamed Aboelwafa](https://www.linkedin.com/in/mohamed-aboelwafa-3358a4393/)
 - 💻 GitHub: [mohamed-aboelwafa](https://github.com/mohamed-aboelwafa)
 
 ---
